@@ -1,4 +1,4 @@
 def cube(r):
-    a=int(r)**3
     print(a)
+a=int(r)**3    
 cube(5.5)
